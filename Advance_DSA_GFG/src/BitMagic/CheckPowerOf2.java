@@ -8,7 +8,7 @@ public class CheckPowerOf2 {
 
 		Scanner sc = new Scanner(System.in);
 		int num = sc.nextInt();
-
+     
 		// Using Brians Kernighan's algorithm
 		if (checkPowerOF_Two(num)) {
 			System.out.println("yes");
