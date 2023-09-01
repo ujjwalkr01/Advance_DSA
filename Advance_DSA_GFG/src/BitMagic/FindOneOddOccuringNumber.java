@@ -6,7 +6,7 @@ public class FindOneOddOccuringNumber {
 
 		// its fixed that there will be only one odd occuring time number
 
-		int arr[] = new int[] { 4, 4, 4, 4, 5, 5, 3, 3 };
+		int arr[] = new int[] { 4, 3, 4, 4, 4, 5, 5, 3, 3 };
 
 		System.out.println(findTheOddRepeatingEle(arr));
 	}
